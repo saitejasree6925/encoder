@@ -1,2 +1,1 @@
-# encoder
-my sixth project 
+1. encoder.v (4-to-2 Encoder)
